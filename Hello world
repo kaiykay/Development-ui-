@@ -1,0 +1,48 @@
+_____
+     /     \
+    | () () |
+     \  ^  /
+      |||||
+      |||||
+
+# Hello World OS 21 - README
+
+## Overview
+Hello World OS 21 is a lightweight and efficient operating system designed for simplicity and fast performance. It is built for both developers and users who value minimalism and functionality. The OS is designed with a focus on ease of use, fast boot times, and a clean user interface.
+
+## Key Features:
+- **Fast Boot**: Boots up in under 5 seconds on most modern devices.
+- **Simple UI**: Minimalistic design with intuitive navigation.
+- **Developer Friendly**: Comes with built-in tools for developers to write and test code efficiently.
+- **Lightweight**: Optimized to use minimal system resources, perfect for low-end devices.
+- **Customizable**: Easily modifiable with themes, widgets, and developer extensions.
+- **Open Source**: Fully open source, allowing for community-driven improvements and transparency.
+
+## System Requirements:
+- Minimum 1GB RAM
+- Storage: Minimum 8GB
+- Processor: Dual-core 1.5 GHz or higher
+
+## Installation:
+1. Download the Hello World OS 21 ISO from the official website.
+2. Create a bootable USB using software like Rufus or Etcher.
+3. Boot your device from the USB and follow the on-screen instructions for installation.
+4. Once installed, you can customize the OS to your liking using the built-in settings panel.
+
+## Bug Reporting and Support:
+For bug reports and support, visit the Hello World OS 21 official forum or GitHub repository to submit issues or pull requests.
+
+## License:
+Hello World OS 21 is open-source software licensed under the MIT License. Feel free to contribute and modify the OS as per your needs.
+____________________
+ /                    \
+|    ______________    |
+|   |              |   |
+|   | Hello World! |   |
+|   |______________|   |
+|                    O |
+|______________________|
+   \________________/  
+       |        |
+       |________|
+         |_||_|
