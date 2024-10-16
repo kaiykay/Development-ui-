@@ -6,7 +6,7 @@ Here’s a draft for a README.md file for a project called Art Gallery Edition: 
 Art Gallery Edition: Photo Frame and the World
 
 Version: 1.0
-Author: [Samsung galaxy Helio p35 Helio p39 ]
+Author: [ ]
 License: MIT License
 
 Overview
